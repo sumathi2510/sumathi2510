@@ -1,4 +1,4 @@
-## Hi there 👋
+
 <h1 align="center">Hi 👋, I'm SUMATHI KESAVAN</h1>
 <h3 align="center">I am a part-time software student at University Technology Malaysia, where I am pursuing a deeper understanding of computer science concepts, including programming, algorithms, and software development.</h3>
 
