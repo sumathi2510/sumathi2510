@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm SUMATHI KESAVAN</h1>
 <h3 align="center">I am a part-time software student at University Technology Malaysia, where I am pursuing a deeper understanding of computer science concepts, including programming, algorithms, and software development.</h3>
 
-- 📫 How to reach me:Mail **sumathikesavan2599@gmail.com**
+- 📫 How to reach me: **sumathikesavan2599@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/sumathi-kesavan-4927302bb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/sumathi-kesavan-4927302bb" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/sumathi-kesavan-4927302bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sumathi-kesavan-4927302bb/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
