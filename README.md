@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm SUMATHI KESAVAN</h1>
 <h3 align="center">I am a part-time software student at University Technology Malaysia, where I am pursuing a deeper understanding of computer science concepts, including programming, algorithms, and software development.</h3>
 
-- 🔭 I’m currently working at **GLOBALFOUNDRIES as Associate Process Engineer**
+- 🔭 I’m currently working at GLOBALFOUNDRIES as Associate Process Engineer
 
-- 🌱 I’m currently learning **Web Development**
+- 🌱 I’m currently learning Web Development
 
-- 🎓 Graduated in : **Diploma in Electronic Engineering (Communication)**
+- 🎓 Graduated in : Diploma in Electronic Engineering (Communication)
 
-- 📕 **Currently continuing my studies part-time in Software Engineering. 💻 #SoftwareEngineering #PartTimeStudent**
+- 📕 Currently continuing my studies part-time in Software Engineering. 💻 #SoftwareEngineering #PartTimeStudent
 
-- 💼 **5 years of experience in the semiconductor industry**
+- 💼 5 years of experience in the semiconductor industry
 
 - 📫 How to reach me: **sumathikesavan2599@gmail.com**
 
