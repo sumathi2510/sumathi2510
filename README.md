@@ -1,9 +1,13 @@
 <h1 align="center">Hi 👋, I'm SUMATHI KESAVAN</h1>
 <h3 align="center">I am a part-time software student at University Technology Malaysia, where I am pursuing a deeper understanding of computer science concepts, including programming, algorithms, and software development.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=suman2510&label=Profile%20views&color=0e75b6&style=flat" alt="suman2510" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=suman2510" alt="suman2510" /></a> </p>
+
 - 🔭 I’m currently working at **GLOBALFOUNDRIES**
 
-- 🌱 I’m currently learning Web Development **Web Development**
+- 🌱 I’m currently learning **Web Development**
 
 - 📫 How to reach me: **sumathikesavan2599@gmail.com**
 
