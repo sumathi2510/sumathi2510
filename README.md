@@ -5,6 +5,12 @@
 
 - 🌱 I’m currently learning **Web Development**
 
+- 🎓 Graduated in : **Diploma in Electronic Engineering (Communication)**
+
+- 📕 **Currently continuing my studies part-time in Software Engineering. 💻 #SoftwareEngineering #PartTimeStudent**
+
+- 💼 **5 years of experience in the semiconductor industry**
+
 - 📫 How to reach me: **sumathikesavan2599@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
